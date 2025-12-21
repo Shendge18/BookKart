@@ -1,9 +1,10 @@
 using System.Diagnostics;
-using BookKartWeb.Models;
+using BookKart.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BookKartWeb.Controllers
+namespace BookKartWeb.Areas.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

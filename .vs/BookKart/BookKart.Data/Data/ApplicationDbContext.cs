@@ -1,7 +1,7 @@
-﻿using BookKartWeb.Models;
+﻿using BookKart.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace BookKartWeb.Data
+namespace BookKart.DataAccess.Data
 {
     public class ApplicationDbContext : DbContext
     {

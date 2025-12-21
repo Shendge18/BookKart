@@ -3,40 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\models\\categorydalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\models\\categorydalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\migrations\\20251220192149_seedcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\migrations\\20251220192149_seedcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\migrations\\20251220183104_addcategorytabletodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\migrations\\20251220183104_addcategorytabletodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\migrations\\20251220183104_addcategorytabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\migrations\\20251220183104_addcategorytabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91039988-350A-41C9-8C30-48567AC181E2}|BookKart.Models\\BookKart.Models.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.models\\categorydalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91039988-350A-41C9-8C30-48567AC181E2}|BookKart.Models\\BookKart.Models.csproj|solutionrelative:bookkart.models\\categorydalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\migrations\\20251220192149_seedcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\migrations\\20251220192149_seedcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.data\\bookkart.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9755B748-78A7-4504-A002-451121C66273}|BookKart.Data\\BookKart.DataAccess.csproj|solutionrelative:bookkart.data\\bookkart.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E445759-3400-4144-937B-D3E68B4D5F8D}|BookKart.Utility\\BookKart.Utility.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkart.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E445759-3400-4144-937B-D3E68B4D5F8D}|BookKart.Utility\\BookKart.Utility.csproj|solutionrelative:bookkart.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\bookkartweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,138 +126,385 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "BookKart.Data\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:38:07.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "BookKartWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BookKartWeb\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-20T19:09:07.946Z",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "BookKart.Data\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:36:57.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "BookKart.Data\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:37:56.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "BookKart.Data\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:12:37.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BookKartWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BookKartWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BookKartWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BookKartWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T19:08:29.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryDALModel.cs",
-              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Models\\CategoryDALModel.cs",
-              "RelativeDocumentMoniker": "BookKartWeb\\Models\\CategoryDALModel.cs",
-              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Models\\CategoryDALModel.cs",
-              "RelativeToolTip": "BookKartWeb\\Models\\CategoryDALModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T17:22:11.272Z",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BookKartWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BookKartWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T15:56:48.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "BookKartWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "BookKartWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAAGc1AAAAAAAAAAAiwIQ1AAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-20T19:45:29.535Z",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BookKartWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BookKartWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:54:37.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "BookKartWeb\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "BookKartWeb\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-20T20:06:55.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BookKartWeb\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BookKartWeb\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T17:46:04.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BookKartWeb\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\appsettings.Development.json",
-              "RelativeToolTip": "BookKartWeb\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-20T18:16:47.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "BookKartWeb\\appsettings.json",
-              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\appsettings.json",
-              "RelativeToolTip": "BookKartWeb\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-20T17:29:10.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Program.cs",
               "RelativeDocumentMoniker": "BookKartWeb\\Program.cs",
               "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Program.cs",
               "RelativeToolTip": "BookKartWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T17:51:49.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookKartWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "BookKartWeb\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T10:20:41.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BookKartWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BookKartWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-21T18:58:20.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "BookKart.Data\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:40:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "BookKartWeb",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "BookKart.Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:22:47.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251220192149_SeedCategoryTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Migrations\\20251220192149_SeedCategoryTable.Designer.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Migrations\\20251220192149_SeedCategoryTable.Designer.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Migrations\\20251220192149_SeedCategoryTable.Designer.cs",
+              "RelativeToolTip": "BookKart.Data\\Migrations\\20251220192149_SeedCategoryTable.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:47:58.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251220183104_AddCategoryTableToDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Migrations\\20251220183104_AddCategoryTableToDb.Designer.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Migrations\\20251220183104_AddCategoryTableToDb.Designer.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Migrations\\20251220183104_AddCategoryTableToDb.Designer.cs",
+              "RelativeToolTip": "BookKart.Data\\Migrations\\20251220183104_AddCategoryTableToDb.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:47:11.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookKartWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "BookKartWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T06:35:37.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryDALModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Models\\CategoryDALModel.cs",
+              "RelativeDocumentMoniker": "BookKart.Models\\CategoryDALModel.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Models\\CategoryDALModel.cs",
+              "RelativeToolTip": "BookKart.Models\\CategoryDALModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:51:22.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BookKart.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:42:10.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251220183104_AddCategoryTableToDb.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Migrations\\20251220183104_AddCategoryTableToDb.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Migrations\\20251220183104_AddCategoryTableToDb.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Migrations\\20251220183104_AddCategoryTableToDb.cs",
+              "RelativeToolTip": "BookKart.Data\\Migrations\\20251220183104_AddCategoryTableToDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:41:58.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookKart.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:40:44.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251220192149_SeedCategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Migrations\\20251220192149_SeedCategoryTable.cs",
+              "RelativeDocumentMoniker": "BookKart.Data\\Migrations\\20251220192149_SeedCategoryTable.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\Migrations\\20251220192149_SeedCategoryTable.cs",
+              "RelativeToolTip": "BookKart.Data\\Migrations\\20251220192149_SeedCategoryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:42:05.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookKart.DataAccess",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\BookKart.DataAccess.csproj",
+              "RelativeDocumentMoniker": "BookKart.Data\\BookKart.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\BookKart.DataAccess.csproj",
+              "RelativeToolTip": "BookKart.Data\\BookKart.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T15:36:34.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "BookKart.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Utility\\SD.cs",
+              "RelativeToolTip": "BookKart.Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:35:45.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BookKartWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BookKartWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAAwBsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-21T14:58:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "BookKartWeb\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "BookKartWeb\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T10:15:15.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BookKartWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "BookKartWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T09:51:49.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BookKartWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "BookKartWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T06:34:26.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookKartWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BookKartWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T19:09:07.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "BookKartWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "BookKartWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEU2AAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-20T19:45:29.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookKartWeb.csproj",
               "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\BookKartWeb.csproj",
               "RelativeDocumentMoniker": "BookKartWeb\\BookKartWeb.csproj",
               "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\BookKartWeb.csproj",
               "RelativeToolTip": "BookKartWeb\\BookKartWeb.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-20T17:43:59.282Z",
               "EditorCaption": ""

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace BookKartWeb.Models
+namespace BookKart.Models
 {
     public class CategoryDALModel
     {
