@@ -38,7 +38,7 @@ namespace BookKartWeb.Areas.Admin.Controllers
                 _unitOfWork.Category.Add(obj);
                 _unitOfWork.Save();
 
-                TempData["successMsg"] = "Category created sucessfully.";
+                TempData["successMsg"] = "Category created successfully.";
 
                 return RedirectToAction("Index");
             }
@@ -80,7 +80,7 @@ namespace BookKartWeb.Areas.Admin.Controllers
             {
                 _unitOfWork.Category.Update(obj);
                 _unitOfWork.Save();
-                TempData["successMsg"] = "Category updated sucessfully.";
+                TempData["successMsg"] = "Category updated successfully.";
                 return RedirectToAction("Index");
             }
 
@@ -119,7 +119,7 @@ namespace BookKartWeb.Areas.Admin.Controllers
 
             _unitOfWork.Category.Remove(obj);
             _unitOfWork.Save();
-            TempData["successMsg"] = "Category deleted sucessfully.";
+            TempData["successMsg"] = "Category deleted successfully.";
 
             return RedirectToAction("Index");
         }
