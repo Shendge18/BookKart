@@ -1,11 +1,14 @@
 ﻿using BookKart.DataAccess.Data;
 using BookKart.DataAccess.Repository.IRepository;
 using BookKart.Models;
+using BookKart.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookKartWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles =SD.Role_Admin)]
     public class CategoryController : Controller
     {
         protected readonly IUnitOfWork _unitOfWork;

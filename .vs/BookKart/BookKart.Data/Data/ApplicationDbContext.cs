@@ -14,6 +14,7 @@ namespace BookKart.DataAccess.Data
 
         public DbSet<CategoryDALModel> Categories { get; set; }
         public DbSet<ProductDALModel> Products { get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
