@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace BookKart.Models.ViewModels
 {
-    public class ShoppingCartVM
+    public class OrderVM
     {
-        public IEnumerable<ShoppingCartDALModel> ShoppingCartList { get; set; }
         public OrderHeader OrderHeader { get; set; }
-
+        public IEnumerable<OrderDetail> OrderDetail { get; set; }
     }
 }
