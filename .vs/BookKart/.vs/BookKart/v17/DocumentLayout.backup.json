@@ -67,8 +67,7 @@
               "RelativeToolTip": "BookKart.Data\\Repository\\OrderHeaderRepository.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T19:54:16.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T19:54:16.022Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "BookKartWeb\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-29T18:44:14.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T18:44:14.54Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "BookKartWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAkwCsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T21:18:56.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T21:18:56.142Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "BookKartWeb\\Areas\\Admin\\Views\\Order\\Details.cshtml",
               "ViewState": "AgIAAFAAAAAAAAAAAAAYwCwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-27T21:01:53.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T21:01:53.091Z"
             },
             {
               "$type": "Document",
@@ -127,9 +123,9 @@
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "BookKartWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Controllers\\OrderController.cs*",
-              "RelativeToolTip": "BookKartWeb\\Areas\\Admin\\Controllers\\OrderController.cs*",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAQwK0AAABLAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BookKartWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAjwKAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-27T20:23:49.387Z",
               "EditorCaption": ""
