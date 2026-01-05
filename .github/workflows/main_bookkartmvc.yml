@@ -1,0 +1,65 @@
+name: Build and deploy ASP.NET Core app to Azure Web App - BookKartMVC
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.x'
+
+      - name: Restore solution
+        run: dotnet restore .vs/BookKart/BookKart.sln
+
+      - name: Build solution
+        run: dotnet build .vs/BookKart/BookKart.sln --configuration Release --no-restore
+
+      - name: Publish Web App
+        run: dotnet publish .vs/BookKart/BookKartWeb/BookKartWeb.csproj -c Release -o publish
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: webapp
+          path: publish
+
+  deploy:
+    runs-on: windows-latest
+    needs: build
+    permissions:
+      id-token: write
+      contents: read
+
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: webapp
+          path: publish
+
+      - name: Login to Azure
+        uses: azure/login@v2
+        with:
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_5A45C394B5784B99AA21115F4EA56A86 }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_35394B13B620407C869D9819C473B274 }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_B7EE294CCBF84D10B4F5FB26F614C865 }}
+
+      - name: Deploy to Azure Web App
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: BookKartMVC
+          slot-name: Production
+          package: publish
