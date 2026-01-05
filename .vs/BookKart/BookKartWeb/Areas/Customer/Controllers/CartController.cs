@@ -3,6 +3,8 @@ using BookKart.Models;
 using BookKart.Models.ViewModels;
 using BookKart.Utility;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
@@ -14,11 +16,14 @@ namespace BookKartWeb.Areas.Customer.Controllers
     {
 
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IEmailSender _emailSender;
         [BindProperty]
         public ShoppingCartVM ShoppingCartVM { get; set; }
-        public CartController(IUnitOfWork unitOfWork)
+
+        public CartController(IUnitOfWork unitOfWork, IEmailSender emailSender)
         {
             _unitOfWork = unitOfWork;
+            _emailSender = emailSender;
         }
 
 
@@ -161,7 +166,10 @@ namespace BookKartWeb.Areas.Customer.Controllers
                     _unitOfWork.Save();
                 }
 
+                HttpContext.Session.Clear();
 
+                _emailSender.SendEmailAsync(orderHeader.ApplicationUser.Email, "New Order - Book Kart",
+               $"<p>New Order Created - {orderHeader.Id}</p>");
             }
 
             List<ShoppingCartDALModel> shoppingCarts = _unitOfWork.ShoppingCart
