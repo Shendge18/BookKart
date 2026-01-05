@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|c:\\users\\shivam shendge\\documents\\github\\bookkart\\.vs\\bookkart\\bookkartweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7430D65A-97FF-4A5A-998C-2B36C9873287}|BookKartWeb\\BookKartWeb.csproj|solutionrelative:bookkartweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "BookKartWeb\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\appsettings.Production.json",
+              "RelativeToolTip": "BookKartWeb\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T18:39:55.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Areas\\Customer\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "BookKartWeb\\Areas\\Customer\\Controllers\\CartController.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BookKartWeb\\Views\\Shared\\_Layout.cshtml",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\Program.cs",
               "RelativeDocumentMoniker": "BookKartWeb\\Program.cs",
@@ -77,20 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Utility\\EmailSender.cs",
               "RelativeDocumentMoniker": "BookKart.Utility\\EmailSender.cs",
               "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Utility\\EmailSender.cs",
               "RelativeToolTip": "BookKart.Utility\\EmailSender.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAnwCgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAnwBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T13:35:13.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKart.Data\\DbInitializer\\DbInitializer.cs",
               "RelativeDocumentMoniker": "BookKart.Data\\DbInitializer\\DbInitializer.cs",
@@ -103,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\appsettings.json",
               "RelativeDocumentMoniker": "BookKartWeb\\appsettings.json",
               "ToolTip": "C:\\Users\\Shivam Shendge\\Documents\\GitHub\\BookKart\\.vs\\BookKart\\BookKartWeb\\appsettings.json",
               "RelativeToolTip": "BookKartWeb\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-05T12:24:04.118Z",
               "EditorCaption": ""
